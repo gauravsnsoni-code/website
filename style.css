@@ -14,6 +14,15 @@ justify-content: center;
 flex-direction: column;
 
 }
- .Home {text-decoration: none;
-color: aliceblue;}
 
+.resume {color: white;
+text-decoration: none;
+margin-bottom: 30px;}
+
+.project {color: white;
+text-decoration: none;
+margin-bottom: 30px;}
+
+.contact {color: white;
+text-decoration: none;
+margin-bottom: 30px;}
